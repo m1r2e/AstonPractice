@@ -1,6 +1,7 @@
 package HomeWork_1.Task_1;
 
 public abstract class Animal {
+
     private String name;
     private int age;
 

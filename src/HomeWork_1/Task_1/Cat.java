@@ -1,6 +1,7 @@
 package HomeWork_1.Task_1;
 
 public class Cat extends Animal {
+
     public Cat() {
     }
 

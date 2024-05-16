@@ -3,6 +3,7 @@ package HomeWork_1.Task_1;
 public class Bird extends Animal implements AbleToFly {
 
     public Bird() {
+
     }
 
     public Bird(String name) {

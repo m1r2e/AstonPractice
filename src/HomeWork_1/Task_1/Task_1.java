@@ -1,7 +1,12 @@
 package HomeWork_1.Task_1;
 
-// 1. Создайте несколько классов с разными полями, конструкторами и методами.
+
+/**
+ *  1. Создайте несколько классов с разными полями, конструкторами и методами.
+ */
+
 public class Task_1 {
+
     public static void main(String[] args) {
         Dog dog = new Dog("Rex", 2);
         dog.makeSound();
