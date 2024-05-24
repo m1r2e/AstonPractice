@@ -12,7 +12,7 @@ public class Task4 {
         System.out.println(doubleChar("world"));
     }
 
-    public static String doubleChar(String s) {
+    private static String doubleChar(String s) {
         StringBuilder doubleCharString = new StringBuilder();
         char[] chars = s.toCharArray();
 

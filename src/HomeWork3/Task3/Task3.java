@@ -18,16 +18,19 @@ public class Task3 {
             strings[i] = scanner.nextLine();
         }
 
-        boolean findUniqWord = false;
-        for (int i = 0; i < SIZE && !findUniqWord; i++) {
-            if (isUniqWord(strings[i])) {
-                System.out.println(strings[i]);
-                findUniqWord = true;
+        boolean hasFoundUniqCharsWord = false;
+        for (int i = 0; i < SIZE && !hasFoundUniqCharsWord; i++) {
+            String[] words = strings[i].split(" ");
+            for (String word : words) {
+                if (isUniqCharsWord(word)) {
+                    System.out.println(word);
+                    hasFoundUniqCharsWord = true;
+                }
             }
         }
     }
 
-    public static boolean isUniqWord(String string) {
+    private static boolean isUniqCharsWord(String string) {
         char[] chars = string.toCharArray();
 
         for (char ch : chars) {

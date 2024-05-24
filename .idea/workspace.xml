@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dadaebed-8f2d-4c26-94ea-8a1422210c29" name="Changes" comment="" />
+    <list default="true" id="dadaebed-8f2d-4c26-94ea-8a1422210c29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Task1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Task3/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Task4/Task4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,28 +40,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HomeWork_3.Task_1.Task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/programming/Practice/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HomeWork_3.Task_1.Task_1.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.Runner.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task_1.executor": "Run",
+    "Application.Task_2.executor": "Run",
+    "Application.Task_3.executor": "Run",
+    "Application.Task_4.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/programming/Practice/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Task3">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork2.Task2.Runner" />
@@ -153,6 +159,7 @@
       <workItem from="1715953243709" duration="13619000" />
       <workItem from="1716023096106" duration="17189000" />
       <workItem from="1716365599093" duration="18545000" />
+      <workItem from="1716570515883" duration="2681000" />
     </task>
     <servers />
   </component>

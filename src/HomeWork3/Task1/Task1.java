@@ -22,7 +22,7 @@ public class Task1 {
         System.out.println("Самая длинная строка: " + longStr + "; длина строки: " + longStr.length());
     }
 
-    public static String getShortStr(String str1, String str2, String str3) {
+    private static String getShortStr(String str1, String str2, String str3) {
         if (str1.length() < str2.length() && str1.length() < str3.length())
             return str1;
         else if (str2.length() < str1.length() && str2.length() < str3.length())
@@ -30,7 +30,7 @@ public class Task1 {
         else return str3;
     }
 
-    public static String getLongStr(String str1, String str2, String str3) {
+    private static String getLongStr(String str1, String str2, String str3) {
         if (str1.length() > str2.length() && str1.length() > str3.length())
             return str1;
         else if (str2.length() > str1.length() && str2.length() > str3.length())
