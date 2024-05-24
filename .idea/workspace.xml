@@ -5,10 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dadaebed-8f2d-4c26-94ea-8a1422210c29" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Task3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Task4/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task1/AbleToFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/task1/AbleToFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/task1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task1/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/task1/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/task1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/task1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/task1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/task1/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/task2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/task3/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/task4/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task1/FuelType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task1/FuelType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task1/LuxuryLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task1/LuxuryLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task1/Sedan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task1/Sedan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task1/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task1/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task1/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task1/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task2/ImmutablePerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task2/ImmutablePerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task2/MutablePerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task2/MutablePerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task2/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task3/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/task3/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/task1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/task2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/task3/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/task4/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +86,11 @@
 }]]></component>
   <component name="RunManager" selected="Application.Task3">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork2.Task2.Runner" />
+      <option name="MAIN_CLASS_NAME" value="homework2.task2.Runner" />
       <module name="AstonPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork2.Task2.*" />
+          <option name="PATTERN" value="homework2.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,11 +99,11 @@
       </method>
     </configuration>
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork3.Task1.Task1" />
+      <option name="MAIN_CLASS_NAME" value="homework3.task1.Task1" />
       <module name="AstonPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork3.Task1.*" />
+          <option name="PATTERN" value="homework3.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork3.Task2.Task2" />
+      <option name="MAIN_CLASS_NAME" value="homework3.task2.Task2" />
       <module name="AstonPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork3.Task2.*" />
+          <option name="PATTERN" value="homework3.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +125,11 @@
       </method>
     </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork3.Task3.Task3" />
+      <option name="MAIN_CLASS_NAME" value="homework3.task3.Task3" />
       <module name="AstonPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork3.Task3.*" />
+          <option name="PATTERN" value="homework3.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +138,11 @@
       </method>
     </configuration>
     <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork3.Task4.Task4" />
+      <option name="MAIN_CLASS_NAME" value="homework3.task4.Task4" />
       <module name="AstonPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork3.Task4.*" />
+          <option name="PATTERN" value="homework3.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,7 +180,7 @@
       <workItem from="1715953243709" duration="13619000" />
       <workItem from="1716023096106" duration="17189000" />
       <workItem from="1716365599093" duration="18545000" />
-      <workItem from="1716570515883" duration="2681000" />
+      <workItem from="1716570515883" duration="2982000" />
     </task>
     <servers />
   </component>
