@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dadaebed-8f2d-4c26-94ea-8a1422210c29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework4/task1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/task2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/task3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/task4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/task4/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/task4/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dadaebed-8f2d-4c26-94ea-8a1422210c29" name="Changes" comment="Add homework5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;m1r2e&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/m1r2e/AstonPractice.git&quot;,
+    &quot;accountId&quot;: &quot;a309ad47-859e-4da1-89c3-c099b413d512&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -49,6 +52,8 @@
     "Application.HomeWork_3.Task_1.Task_1.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Runner.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
     "Application.Task_1.executor": "Run",
     "Application.Task_2.executor": "Run",
@@ -61,7 +66,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/programming/Practice/Java",
+    "last_opened_file_path": "F:/programming/Aston/AstonPractice/AstonPractice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,7 +75,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.homework4.task4.Task4">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework4.task3.Main" />
       <module name="AstonPractice" />
@@ -84,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.task3.Task3" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.task1.Task1" />
       <module name="AstonPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3.task3.*" />
+          <option name="PATTERN" value="homework5.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework4.task1.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework4.task1.Task1" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.task2.Task2" />
       <module name="AstonPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework4.task1.*" />
+          <option name="PATTERN" value="homework5.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,18 +143,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.homework4.task4.Task4" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.homework4.task2.Task2" />
-        <item itemvalue="Application.homework4.task1.Task1" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
       </set>
     </attachedChunks>
   </component>
@@ -166,11 +172,26 @@
       <workItem from="1715953243709" duration="13619000" />
       <workItem from="1716023096106" duration="17189000" />
       <workItem from="1716365599093" duration="18545000" />
-      <workItem from="1716570515883" duration="17588000" />
+      <workItem from="1716570515883" duration="17793000" />
+      <workItem from="1717185939564" duration="3011000" />
+      <workItem from="1717226263949" duration="9644000" />
     </task>
+    <task id="LOCAL-00001" summary="Add homework5">
+      <option name="closed" value="true" />
+      <created>1717239981604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717239981604</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add homework5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add homework5" />
   </component>
 </project>
