@@ -17,21 +17,6 @@ package homework6.task1;
 
 public class UserValidator {
 
-    private static boolean validate(String login, String password, String confirmPassword)
-            throws WrongLoginException, WrongPasswordException {
-
-        if (login == null || login.length() >= 20 || login.contains(" ")) {
-            throw new WrongLoginException("Wrong login");
-        }
-
-        if (password == null || password.length() >= 20 || password.contains(" ")
-                || !password.matches(".*\\d.*") || !password.equals(confirmPassword)) {
-            throw new WrongPasswordException("Wrong password");
-        }
-
-        return true;
-    }
-
     public static void main(String[] args) {
         try {
             System.out.println(validate("user", "password1", "password1"));
@@ -40,4 +25,21 @@ public class UserValidator {
         }
     }
 
+    private static boolean validate(String login, String password, String confirmPassword)
+            throws WrongLoginException, WrongPasswordException {
+
+        if (isStringValid(login)) {
+            throw new WrongLoginException("Wrong login");
+        }
+
+        if (isStringValid(password) || !password.equals(confirmPassword) || !password.matches(".*\\d.*")) {
+            throw new WrongPasswordException("Wrong password");
+        }
+
+        return true;
+    }
+
+    private static boolean isStringValid(String stringToCheck) {
+        return stringToCheck == null || stringToCheck.length() >= 20 || stringToCheck.contains(" ");
+    }
 }
