@@ -31,25 +31,24 @@ public class Main {
 
         ExecutorService executor = Executors.newSingleThreadExecutor();
 
-        // Запуск потока, который будет генерировать новых покупателей каждую секунду в течение двух минут
         executor.submit(() -> {
             Random random = new Random();
-            long endTime = System.currentTimeMillis() + 2 * 60 * 1000; // Текущее время + 2 минуты
+            long endTime = System.currentTimeMillis() + 2 * 60 * 1000;
 
             while (System.currentTimeMillis() < endTime) {
-                int customersToGenerate = random.nextInt(3); // Генерация от 0 до 2 покупателей
+                int customersToGenerate = random.nextInt(3);
                 for (int i = 0; i < customersToGenerate; i++) {
                     Thread buyerThread = new Thread(new Buyer());
                     buyerThread.start();
                 }
 
                 try {
-                    Thread.sleep(1000); // Подождать 1 секунду перед генерацией новых покупателей
+                    Thread.sleep(1000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
             }
-            executor.shutdown(); // Завершение работы ExecutorService после завершения двух минут
+            executor.shutdown();
         });
 
     }
