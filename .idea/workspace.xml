@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dadaebed-8f2d-4c26-94ea-8a1422210c29" name="Changes" comment="Add homework7">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dadaebed-8f2d-4c26-94ea-8a1422210c29" name="Changes" comment="Add homework7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -49,37 +52,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Authentication.executor": "Run",
-    "Application.HomeWork_3.Task_1.Task_1.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Runner.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.Task2.executor": "Run",
-    "Application.Task3.executor": "Run",
-    "Application.Task_1.executor": "Run",
-    "Application.Task_2.executor": "Run",
-    "Application.Task_3.executor": "Run",
-    "Application.Task_4.executor": "Run",
-    "Application.UserValidator.executor": "Run",
-    "Application.homework4.task1.Task1.executor": "Run",
-    "Application.homework4.task2.Task2.executor": "Run",
-    "Application.homework4.task4.Task4.executor": "Run",
-    "Application.homework6.task2.Task2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/programming/Aston/AstonPractice/AstonPractice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Authentication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork_3.Task_1.Task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserValidator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework4.task1.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework4.task2.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework4.task4.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework6.task2.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/programming/Aston/AstonPractice/AstonPractice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework7.Main" />
@@ -148,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.UserValidator" />
-        <item itemvalue="Application.homework6.task2.Task2" />
-        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.homework6.task2.Task2" />
       </list>
     </recent_temporary>
   </component>
