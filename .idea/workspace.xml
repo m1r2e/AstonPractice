@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dadaebed-8f2d-4c26-94ea-8a1422210c29" name="Changes" comment="resolve merge conflict">
+      <change afterPath="$PROJECT_DIR$/src/homework9/factoryPattern/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework9/factoryPattern/DeviceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework9/factoryPattern/DeviceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework9/factoryPattern/DeviceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework9/factoryPattern/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework9/factoryPattern/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +91,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.DeviceTest">
+    <configuration name="DeviceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework9.factoryPattern.DeviceTest" />
+      <module name="AstonPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework9.factoryPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework7.Main" />
       <module name="AstonPractice" />
@@ -138,26 +157,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework6.task2.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework6.task2.Task2" />
-      <module name="AstonPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework6.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeviceTest" />
         <item itemvalue="Application.UserValidator" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.homework6.task2.Task2" />
       </list>
     </recent_temporary>
   </component>
